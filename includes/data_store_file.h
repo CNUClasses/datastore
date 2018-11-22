@@ -1,6 +1,8 @@
 #pragma once
 #include <iostream>
 #include <vector>
+#include <fstream>
+
 #include "../includes/data_store.h"
 #include "string_data.h"
 
